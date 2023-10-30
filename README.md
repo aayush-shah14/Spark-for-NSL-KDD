@@ -5,7 +5,7 @@ This repository contains the code and output screenshot for preprocessing and ru
 The NSL-KDD dataset is an enhanced dataset to help researchers compare different intrusion detection methods.
 The dataset contains 100k+ records and contains 43 features per record, with 41 of the features referring to the traffic input itself and the last two columns represent theactivity type (whether it is normal or attack) andScore/Difficulty level(the severity of the traffic input itself).
 
-![Layout of the Dataset](nsl_kdd.png)
+![Layout of the Dataset](nsl_kdd_data.png)
 
 In the dataset, there are 4 different classes of attacks:
 
